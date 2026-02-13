@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "That That（feat. SUGA）",
+  "base_artist": "PSY",
+  "createdAt": "2026-02-13T12:54:43.048808Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "That That (feat. SUGA)",
+      "artist": "PSY",
+      "has_synced": true,
+      "path": "select/01_That_That_(feat._SUGA)_PSY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That That (feat. SUGA)",
+      "artist": "PSY",
+      "has_synced": true,
+      "path": "select/02_That_That_(feat._SUGA)_PSY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "That That (prod. & feat. SUGA of BTS)",
+      "artist": "PSY, SUGA",
+      "has_synced": false,
+      "path": "select/pl_01_That_That_(prod._&_feat._SUGA_of_BTS)_PSY,_SUGA.txt"
+    }
+  ]
+}
